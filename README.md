@@ -1,8 +1,8 @@
 # TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-
-`2021-Semestre 1`
+`Disciplina: NOME DA DISCIPLINA`
+`2021 - Semestre 1`
 
 ## Integrantes
 

@@ -1,22 +1,19 @@
-# CADASTRO DE CLIENTES
+# TÍTULO DO PROJETO
 
-`ADS - Análise e Desenvolvimento de Sistemas`
-
-`PROJETO - Eixo 1`
-
-`2021-S1`
+`PPC-CC: PUC Poços de Caldas - Ciência da Computação`
+`Disciplina: NOME DA DISCIPLINA`
+`2021 - Semestre 1`
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- XYZ 17/06 A1
-- Anakin Skywalker
-- WRSMACHADO
-- Maria Aparecida 17/06 A2
+- Jeff Bezos
+- Bill Gates
+- Larry Ellison
+- Mark Zuckerberg
 
 ## Professor
 
-- Mestre Yoda W
+- Mestre Yoda
 
 # Documentação
 
